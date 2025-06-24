@@ -20,14 +20,14 @@ body, html {
 }
 
 .logo {
-  width: 220px;
-  margin-bottom: 100px;
+  width: 180px;
+  margin-bottom: 20px;
 }
 
 .title {
   font-size: 24px;
   font-weight: bold;
-  margin-bottom: 80px;
+  margin-bottom: 10px;
   color: #333;
 }
 
