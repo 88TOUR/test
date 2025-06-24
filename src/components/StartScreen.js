@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./assets/하나투어.png"
+import logo from "./assets/88tour_logo.jpg"
 
 const StartScreen = ({ onStart }) => (
   <div id="start-screen">
